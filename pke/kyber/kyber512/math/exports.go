@@ -20,6 +20,9 @@ const PolySize = common.PolySize
 const PlaintextSize = common.PlaintextSize
 const Eta2 = common.Eta2
 
+var Zetas = common.Zetas
+var InvNTTReductions = common.InvNTTReductions
+
 // params
 
 const K = internal.K
